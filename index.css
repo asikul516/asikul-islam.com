@@ -1,0 +1,233 @@
+
+ 
+
+
+
+/* heading-option */
+
+.heading-option {
+    background-color: aqua !important;
+}
+
+/* heading-option */
+
+
+/* body-option-start */
+
+ .section-body {
+    margin-top:6.5% !important;
+ }
+
+ .section-body .body-option-1 {
+    background-image: linear-gradient(rgba(148, 187, 233, 0.7),rgba(13, 202, 240, 0.8)), url("https://media.gettyimages.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=gi&k=20&c=_Yaofm8sZLZkKs1eMkv-zhk8K4k5u0g0fJuQrReWfdQ=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+} 
+
+/* body-option-end */
+
+/* body-option-2-start */
+
+.head-line-text h1{
+    border-bottom:2px solid #0DCAF0 !important;
+    width: 30% !important;
+    padding-bottom:25px;
+    margin-left: 35%;
+}  
+
+ 
+/* body-option-2-end */
+
+/* body-option-3-start */
+
+.part-line-text h4{
+    border-bottom:2px solid #0DCAF0 !important;
+    width: 30% !important;
+    padding-bottom:25px;
+     
+}
+
+.part-1 p {
+    color:#727272;
+}
+
+/* body-option-3-end */
+
+/* body-option-6-start */
+.last-part-option-6 {
+  background-image: linear-gradient(rgba(148, 187, 233, 0.7),rgba(13, 202, 240, 0.2)), url("https://www.gretchencseibel.com/images/bg-image-2.jpg");
+  height:50vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* body-option-6-end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive web-desing */
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 319px) and (max-width: 480px) {
+    
+    /* CSS */
+
+    /* headding-desing */
+
+    .navbar-brand {
+        padding-top: var(--bs-navbar-brand-padding-y);
+        padding-bottom: var(--bs-navbar-brand-padding-y);
+        margin-right: var(--bs-navbar-brand-margin-end);
+        font-size: 15px !important;
+        color: var(--bs-navbar-brand-color);
+        text-decoration: none;
+        white-space: nowrap;
+      }
+      .navbar-toggler-icon {
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        vertical-align: middle;
+        background-image: var(--bs-navbar-toggler-icon-bg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 140% !important;
+      }
+
+      .navbar-toggler {
+        font-size: 10px !important;
+        line-height: 1;
+        color: var(--bs-navbar-color);
+      }
+
+      .body-option-1_0 img {
+        width: 300px !important;
+        height: 300px !important;
+      } 
+
+ 
+    
+
+
+  .sir-img {
+    margin-top:86px;
+  }
+
+  .body-option-1_1 {
+    margin-top:1px !important;
+    background-color: rgb(67, 172, 220);
+    text-align: ;
+  }
+  .body-option-1_1 h1 {
+    margin-top:10px !important;
+    text-align: center !important;
+  }
+
+  .section-body .body-option-1 {
+    background-image: linear-gradient(rgba(148, 187, 233, 0.7),rgba(13, 202, 240, 0.8)), url("https://media.gettyimages.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=gi&k=20&c=_Yaofm8sZLZkKs1eMkv-zhk8K4k5u0g0fJuQrReWfdQ=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 91vh;
+    width: 100%;
+}
+
+.body-option-2 h1 {
+    border-bottom: 2px solid #0DCAF0 !important;
+    width: 40% !important;
+    padding-bottom: 40px !important;
+    margin-top: -90px !important;
+  }
+
+
+
+
+
+    
+  }
+
+/* responsive web-desing */
